@@ -15,7 +15,6 @@ An Android Studio project template for Max MSP RNBO C++ exports.
 ## Installation
 TBC
 
-
 <!-- ROADMAP -->
 ## Roadmap
 
@@ -26,6 +25,7 @@ ko-fi.com/stuartmellor. Also, while these are aspects that I propose might be us
 - [x] Automatically generated sliders from RNBO patch paramaters.
 - [ ] Connect sensors to RNBO patch (90% there already but omitted from this clean build).
 - [ ] Explore recording (aka sampling) via onboard mics.
+- [ ] Write up guide on how to create your own project from scratch!
 - [ ] etc. Let me know if you have any ideas!
 
 
