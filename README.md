@@ -2,14 +2,15 @@
 
 *Now working!*
 
+An Android Studio project template for Max MSP RNBO C++ exports.
+
 ## Features
 
 - Automatically generates sliders based on exported parameters!
 
 ## Caveats
 
-- Automatically generates sliders based on exported parameters ... you may want to create your own
-  declaration function to create more specific and relevant "Views".
+- Automatically generates sliders based on exported parameters ... you may want to modify the declaration function to create more specific and relevant "Views".
 
 ## Installation
 
