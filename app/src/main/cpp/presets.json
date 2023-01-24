@@ -1,0 +1,19 @@
+[
+  {
+    "name": "untitled",
+    "preset": {
+      "base_frequency": {
+        "value": 300
+      },
+      "volume": {
+        "value": 1
+      },
+      "wobble_amp": {
+        "value": 39
+      },
+      "wobble_frequency": {
+        "value": 0.1
+      }
+    }
+  }
+]
