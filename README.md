@@ -18,8 +18,8 @@ TBC
 <!-- ROADMAP -->
 ## Roadmap
 
-I'm working on this in my spare time, to help get me on the road a bit quicker please Consider supporting me via my 
-KoFi link: <a href="ko-fi.com/stuartmellor">ko-fi.com/stuartmellor</a>.
+I'm working on this in my spare time, to help get me on the road a bit quicker please Consider supporting me  
+via my KoFi link: <a href="ko-fi.com/stuartmellor">ko-fi.com/stuartmellor</a>.
 
 Also, while these are aspects that I propose might be useful, I'm more than willing to listen and update this list:
 
